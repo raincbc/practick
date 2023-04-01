@@ -1,0 +1,100 @@
+@import url(//db.onlinewebfonts.com/c/06562fa8f1dc120ddaa83492acec1b10?family=CircularAirPro+Book);
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "CircularAirPro Book";
+    background: #111111;
+}
+
+.titleH1{
+    font-weight: 500;
+    font-size: 160px;
+    line-height: 95%;
+    letter-spacing: -0.04em;
+    color: #FFFFFF;
+}
+
+.titleH3{
+    font-weight: 500;
+    font-size: 80px;
+    line-height: 95%;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+}
+
+.titleH4{
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 95%;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+}
+
+.titleH6{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 110%;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+}
+
+.bodyText1{
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 110%;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+}
+
+.bodyText2{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 125%;
+    color: #FFFFFF;
+}
+
+.bodyText3{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+}
+
+.bodyText4{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 125%;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+}
+
+.bodyText5{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 125%;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+}
+
+.bodyText6{
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 100%;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.container{
+    max-width: 1360px;
+    margin: 0 auto;
+    border: 0.5px solid rgba(255, 255, 255, 0.5);
+}
+
+.header{
+    margin-top: 30px;
+}
